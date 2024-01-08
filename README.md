@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 </h2>
 
 <div align="center">
-   <img src="https://<iframe src="https://giphy.com/embed/7SEOHagSV4ybqp2CbL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/FunnFabLAB-hello-jump-7SEOHagSV4ybqp2CbL">via GIPHY</a></p>" width="500" height="300"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g5NHN6emI5eHBtanpxM2R1Ym1zOG9uczR1ZG9jNG12bDhxcngzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SEOHagSV4ybqp2CbL/giphy.gif" width="500" height="300"/>
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=My Name is Ayşen İKKAN!+👋;Nice+to+see+you+🧡& center=true&size=25">
   </p>
 </div>
 
@@ -34,10 +33,10 @@ I am a MSc Microbiologist from Turkey.
 - 🎓 As October 2023, I graduated from Bursa Uludag Univesity .
 
 - :telescope: I am interested in frontend and backend for building web applications.
-
+<!--
 - 🖥️  .
 
 - :zap: .
-
+-->
 - :mailbox: How to reach me: [ayseikkan16@gmail.com](mailto:ayseikkan16@gmail.com)
 
