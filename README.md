@@ -33,7 +33,7 @@ I am a MSc Microbiologist from Turkey.
 
 - :telescope: I am interested in sequence analysis and bioinformatics.
 
- -<!-- 
+- <!-- 
 - 🖥️  .
 
 - :zap: .
