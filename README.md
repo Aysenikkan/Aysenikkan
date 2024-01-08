@@ -31,8 +31,8 @@ I am a MSc Microbiologist from Turkey.
 
 - 🎓 As October 2023, I graduated from Bursa Uludag Univesity .
 
-- :telescope: I am interested in frontend and backend for building web applications.
-<!--
+- :telescope: I am interested in sequence analysis and bioinformatics.
+  
 - 🖥️  .
 
 - :zap: .
